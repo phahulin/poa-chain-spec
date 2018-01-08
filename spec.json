@@ -9,7 +9,10 @@
           "multi": {
             "0": {
               "safeContract": "0xf472e0e43570b9afaab67089615080cf7c20018d"
-            }
+            },
+            "200000": {
+	      "safeContract": "0xf472e0e43570b9afaab67089615080cf7c20018d"
+	    }
           }
         },
         "maximumUncleCountTransition": 0,
